@@ -1,0 +1,3 @@
+membuat jdwal yang teratur
+mencari kolaborasi
+learn laravel
